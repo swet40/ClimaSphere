@@ -1,0 +1,11 @@
+{"location":{"city":"Delhi","woeid":2295019,"country":"India","lat":28.643999,"long":77.091003,"timezone_id":"Asia/Kolkata"},"current_observation":{"pubDate":1721457183,"wind":{"chill":107,"direction":"ESE","speed":6},"atmosphere":{"humidity":73,"visibility":7.02,"pressure":1001},"astronomy":{"sunrise":"5:37 AM","sunset":"7:19 PM"},"condition":{"temperature":93,"text":"Cloudy","code":26}},"forecasts":[
+    {"day":"Sat","date":1721491200,"high":97,"low":86,"text":"Partly Cloudy","code":30},{"day":"Sun","date":1721577600,"high":97,"low":83,"text":"Mostly Cloudy","code":28},
+    {"day":"Mon","date":1721664000,"high":94,"low":83,"text":"Cloudy","code":26},
+    {"day":"Tue","date":1721750400,"high":94,"low":82,"text":"Showers","code":11},
+    {"day":"Wed","date":1721836800,"high":91,"low":82,"text":"Cloudy","code":26},
+    {"day":"Thu","date":1721923200,"high":92,"low":81,"text":"Cloudy","code":26},
+    {"day":"Fri","date":1722009600,"high":93,"low":82,"text":"Thunderstorms","code":4},
+    {"day":"Sat","date":1722096000,"high":89,"low":84,"text":"Showers","code":11},
+    {"day":"Sun","date":1722182400,"high":94,"low":81,"text":"Thunderstorms","code":4},
+    {"day":"Mon","date":1722268800,"high":93,"low":81,"text":"Thunderstorms","code":4},
+    {"day":"Tue","date":1722355200,"high":94,"low":82,"text":"Thunderstorms","code":4}]}
