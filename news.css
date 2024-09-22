@@ -77,7 +77,8 @@
         }
 
         .hover-link:active {
-            color: red;
+            color: purple;
+            font-weight: bold;
         }
 
         .nav-item.active {
